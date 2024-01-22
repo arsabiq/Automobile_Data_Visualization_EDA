@@ -4,8 +4,7 @@ This project performs exploratory data analysis and visualization on automobile 
 
 ## Files
 
-- `automobile_eda.py`: Python script that loads the data, prepares it, and generates the visualizations
-- `Automobile_Data_Visualization_EDA.pdf`: Output report with all the visualizations and analysis
+- `Automobile_Data_Visualization_EDA.ipynb`: Jupyter notebook of the project 
 
 ## Visualizations
 

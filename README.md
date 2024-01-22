@@ -1,6 +1,6 @@
 # Automobile Data Visualization
 
-This project performs exploratory data analysis and visualization on automobile price data using Python.
+This project is on performing exploratory data analysis and visualization on automobile price data using Python.
 
 ## Files
 
